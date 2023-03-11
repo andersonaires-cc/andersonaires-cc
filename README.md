@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="code.gif" width="300px" align="right"/>
+
+#  🤓 Seja bem vindos.! 
 
 <!--
-**andersonaires-cc/andersonaires-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá aqui você vai encontrar alguns tipos de projetos feitos por meio de desafios e projetos pessoais.
+- 🧑‍💻 estudando Front-End
+- 🤓 Cursando Ciência da computação
+- 🐢 
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="java" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="java" width="40" height="40">&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+<div align="center">
+  <a href="https://github.com/lucasRudyson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasRudyson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasRudyson&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 -->
