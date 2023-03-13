@@ -1,4 +1,4 @@
-<img src="code.gif" width="250px" align="right"/>
+<img src="code.gif" width="300px" align="right"/>
 
 #  Olá eu sou Anderson Aires
 
