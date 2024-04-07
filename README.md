@@ -1,8 +1,8 @@
 <img src="code.gif" width="300px" align="right"/>
 
-#  Olá eu sou Anderson Aires
 
-- 🤓 Cursando Ciência da computação
+- Olá eu sou Anderson Aires 🤓
+- Cursando Ciência da computação 🧑‍🎓
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" width="40" height="40">&nbsp;
