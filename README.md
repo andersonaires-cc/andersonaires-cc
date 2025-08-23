@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/anderson-aires-414399196/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="andersonairesspp@hotmail.com">
+  <a href="mailto:andersonairesspp@hotmail.com">
     <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
