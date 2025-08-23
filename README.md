@@ -7,14 +7,23 @@
 
 ---
 
-  ## 💼 Áreas de Atuação
+## 💼 Áreas de Atuação
 
-- <img src="https://img.shields.io/badge/Desenvolvimento%20Web-Full%20Stack-4FC08D?style=for-the-badge&logo=html5&logoColor=white" alt="Web Full Stack"/>
-- <img src="https://img.shields.io/badge/APIs-REST-00BFFF?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
-- <img src="https://img.shields.io/badge/Sistemas%20Empresariais-Enterprise-FF7F50?style=for-the-badge&logo=microsoft&logoColor=white" alt="Sistemas Empresariais"/>
-- <img src="https://img.shields.io/badge/Banco%20de%20Dados-SQL%20Server%20%26%20PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de Dados"/>
-- <img src="https://img.shields.io/badge/Integração%20de%20Sistemas-Architecture-FFD700?style=for-the-badge&logo=jenkins&logoColor=white" alt="Integração"/>
-- <img src="https://img.shields.io/badge/Computação%20Gráfica-Graphics-8A2BE2?style=for-the-badge&logo=blender&logoColor=white" alt="Computação Gráfica"/>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Desenvolvimento%20Web-Full%20Stack-4FC08D?style=for-the-badge&logo=html5&logoColor=white" alt="Web Full Stack"/></td>
+    <td><img src="https://img.shields.io/badge/Banco%20de%20Dados-SQL%20Server%20%26%20PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de Dados"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/APIs-REST-00BFFF?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/></td>
+    <td><img src="https://img.shields.io/badge/Integração%20de%20Sistemas-Architecture-FFD700?style=for-the-badge&logo=jenkins&logoColor=white" alt="Integração"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Sistemas%20Empresariais-Enterprise-FF7F50?style=for-the-badge&logo=microsoft&logoColor=white" alt="Sistemas Empresariais"/></td>
+    <td><img src="https://img.shields.io/badge/Computação%20Gráfica-Graphics-8A2BE2?style=for-the-badge&logo=blender&logoColor=white" alt="Computação Gráfica"/></td>
+  </tr>
+</table>
+
 
 
 
