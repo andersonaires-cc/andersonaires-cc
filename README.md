@@ -31,10 +31,10 @@
 
 ## 🌐 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/seuusuario">
+  <a href="https://www.linkedin.com/in/anderson-aires-414399196/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white"/>
+  <a href="andersonairesspp@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
